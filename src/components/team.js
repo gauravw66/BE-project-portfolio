@@ -113,8 +113,8 @@ const Team = () => {
       links: {
         linkedin: "https://www.linkedin.com/in/devashish-bhirdi-53835529a/",
         github: "https://github.com/devashish-bhirdi",
-        portfolio: "https://devashish-bhirdi.dev",
-        resume: "/team/Devashish_Bhirdi_Resume.pdf"
+        portfolio: "https://devashish24portfolio.vercel.app/",
+        resume: "/team/Devashish_Resume.pdf"
       }
     }
   ];
