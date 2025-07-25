@@ -102,7 +102,7 @@ const Team = () => {
       links: {
         linkedin: "https://www.linkedin.com/in/aryan-chavan-8522bb264/",
         github: "https://github.com/aryan181004",
-        portfolio: "https://aryan-chavan.dev",
+        portfolio: "https://aryan-chavan.onrender.com/",
         resume: "/team/Aryan_Chavan_Resume.pdf"
       }
     },
