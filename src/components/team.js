@@ -97,8 +97,8 @@ const Team = () => {
     },
     {
       name: "Aryan Chavan",
-      role: "Systems Engineer",
-      description: "Keen interest in applied ML and systems research. Experience in building recommendation engines and security solutions.",
+      role: "ML + Backend Developer",
+      description: "Keen interest in applied ML and backend development. Experience in building recommendation engines and security solutions.",
       links: {
         linkedin: "https://www.linkedin.com/in/aryan-chavan-8522bb264/",
         github: "https://github.com/aryan181004",
